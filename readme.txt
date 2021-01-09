@@ -24,7 +24,7 @@ Springy Sed Typer
 
     Open 4 terminals:
 
-      springy_sed_typer.sh > logs.log
+      ./springy_sed_typer.sh > logs.log
         this starts the main application. Logs should be empty
         lines only. Seeing this terminal is not needed until
         exiting the application so it can be hidden. To exit
