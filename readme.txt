@@ -22,7 +22,8 @@ Springy Sed Typer
 
   Usage:
 
-    Open 4 terminals:
+    Open 4 terminals and cd to the same folder as the
+    springy_sed_typer.sh:
 
       ./springy_sed_typer.sh > logs.log
         this starts the main application. Logs should be empty
