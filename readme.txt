@@ -9,7 +9,7 @@ Springy Sed Typer
 
   System requirements:
 
-    - CPU: 2300 GHz 2 Core
+    - CPU: 2.3 GHz 2 Core
     - Memory: 5GB
 
 
